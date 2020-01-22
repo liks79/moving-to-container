@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:liks79/moving-to-container-frontend.git
+[submodule "backend-user"]
+	path = backend-user
+	url = git@github.com:liks79/moving-to-container-backend-user.git
+[submodule "backend-photo"]
+	path = backend-photo
+	url = git@github.com:liks79/moving-to-container-backend-photo.git
+[submodule "backend-admin"]
+	path = backend-admin
+	url = git@github.com:liks79/moving-to-container-backend-admin.git
