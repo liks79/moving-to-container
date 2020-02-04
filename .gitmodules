@@ -10,3 +10,6 @@
 [submodule "backend-admin"]
 	path = backend-admin
 	url = https://github.com:liks79/moving-to-container-backend-admin.git
+[submodule "aws-xray"]
+	path = aws-xray
+	url = https://github.com/liks79/moving-to-container-aws-xray.git
